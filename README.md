@@ -18,6 +18,7 @@ This list will be constantly updated and/or restructured as I find more reading 
 - [On Average - 99% Invisible](https://99percentinvisible.org/episode/on-average/). Using average as the standard measurement might not always be a good idea. What if nobody or nothing fits the average?
 - [Geo Experiment](https://github.com/DusRUG/20191212-geo-experiments/blob/master/geo-experiments.pdf). This deck gives a light intro about how to measure incremental effect of a campaign with geo experiment & CausalImpact library in R. 
 - [Gradient Boosting Decision Trees Algorithm Explained](https://towardsdatascience.com/machine-learning-part-18-boosting-algorithms-gradient-boosting-in-python-ef5ae6965be4). So I was reading a paper before I came across this article. I could not understand how gradient boosting tree works by reading the paper, but with that article I was able to understand the logic in a few minutes.
+- [Bandit Test](https://cxl.com/blog/bandit-tests/) You've heard a lot about A/B test. Maybe you've also heard about Bayesian A/B test. But have you tried Bandit test? See when it's best to use bandit test in this article.
 
 ## Tutorials & Tips
 - [Recommender System - Datacamp](https://www.datacamp.com/community/tutorials/recommender-systems-python). For those who want to learn to build a recommendation system in Python. This is one of the tutorials I followed when I first tried to build a reecommendation system for POI & Restaurants in London (I shared it on [this repo](https://github.com/dindatisi/next_to_visit)).
@@ -28,3 +29,5 @@ This list will be constantly updated and/or restructured as I find more reading 
 ## Slightly Longer Reads (Papers, mostly)
 - [Online Experimentation at Microsoft](https://ai.stanford.edu/~ronnyk/ExPThinkWeek2009Public.pdf). Stories & lesson learned from past experiments at Microsoft.
 - [A Comparison of Approaches to Advertising Measurement](https://www.kellogg.northwestern.edu/faculty/gordon_b/files/fb_comparison.pdf). For those interested in running & evaluating campaigns on Facebook ads, this paper provides a comparison for different approaches to measure the impact of the experiment. It explains why the measurement is not straightforward and what factors need to be considered. 
+
+
